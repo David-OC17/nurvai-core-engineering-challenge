@@ -1,0 +1,12 @@
+data/
+out/
+.claude/
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+*.jsonl
+*.mp4
+!notebooks/*.ipynb
